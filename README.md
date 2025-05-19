@@ -7,7 +7,7 @@ This repository contains examples and tutorials for the web technologies HTML, S
 Using This : 
 
 ```
-$ https://github.com/Zekepeke/margo.github.io.git
+$ git clone https://github.com/Zekepeke/margo.github.io.git
 ```
 
 ### Downlode Ruby 
