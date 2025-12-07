@@ -1,4 +1,4 @@
-# thing for my gf
+# thing 
 
 # Flower
 This repository contains examples and tutorials for the web technologies HTML, SCSS, and JS.
